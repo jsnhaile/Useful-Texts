@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Hi this is my content
+### Hi this is my content
 
 You can use the [editor on GitHub](https://github.com/jsnhaile/Useful-Texts/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
